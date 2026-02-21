@@ -1,7 +1,7 @@
 ---
 ## Front matter
-title: "Лабораторная работа № 9"
-subtitle: "Командная оболочка Midnight Commander"
+title: "Лабораторная работа № 1"
+subtitle: "Имитационное моделирование"
 author: "Разанацуа Сара Естэлл"
 
 ## Generic otions
